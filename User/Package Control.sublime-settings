@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"BufferScroll",
+		"ChangeQuotes",
+		"ColorPick",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"Expand Selection to Quotes",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Toggle Symbol to String"
+	]
+}
